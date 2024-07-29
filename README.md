@@ -35,7 +35,3 @@
 <h1>Site GIF</h1>
 
 <img src="/assets/book.gif" alt="Site Gif">
-
-<h1>Site Link</h1>
-
-<a href="https://bmwcarapp.netlify.app/"> Netlify Project View</a>
